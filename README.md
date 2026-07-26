@@ -52,10 +52,11 @@ Python and Flask-based applications supporting financial analysis, data processi
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
 
 ### Cloud, Automation & Development
-
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=whiteuredevops&logoColor=white
+https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white
+https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white
+https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white
+https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white
+https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white
 https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white
 
 ## Current Focus
@@ -75,7 +76,8 @@ https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&log
 - Validate outputs before scaling
 - Document assumptions, limitations, and dependencies
 
-## Connect With Me
+## 🤝 Connect With Me
+
 https://img.shields.io/badge/LinkedIn-Mohd%20Faizan%20Khan-0A66C2?style=flat-square&logo=linkedin&logoColor=white](https://www.linkedin.com/in/mfk1277/)
 
 I am interested in connecting with professionals working across **AI engineering, financial services, regulatory technology, risk analytics, and responsible automation**.
