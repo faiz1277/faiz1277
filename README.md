@@ -40,7 +40,6 @@ My work focuses on translating regulatory and business requirements into scalabl
 
 ### 🤖 AI & Retrieval
 ![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-Semantic%20Search-00A28F?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-5D7B9A?style=flat-square)
 
