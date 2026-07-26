@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00A28F&height=200&section=header&text=Mohd%20Faizan%20Khan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Risk%20%26%20Compliance%20Technologist%20%7C%20Python%20Developer%20%7C%20AI%20Automation&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00A28F&height=200&section=header&text=Mohd%20Faizan%20Khan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Risk%20and%20Compliance%20Technologist%20%7C%20Python%20Developer%20%7C%20AI%20Automation&descAlignY=55&descSize=18)
 
 I work at the intersection of **risk, compliance, financial services, and technology**, building practical AI and automation solutions that transform complex, high-volume processes into structured, traceable, and reviewer-ready workflows.
 
