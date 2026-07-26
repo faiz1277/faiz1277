@@ -33,28 +33,29 @@ Semantic-search and Large Language Model workflows for retrieving relevant claus
 ### Analytical Applications
 Python and Flask-based applications supporting financial analysis, data processing, model workflows, persistent storage, authentication, and structured reporting.
 
-## Technology Stack
+## 🛠️ Technology Stack
 
 ### AI & Retrieval
-https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white
-https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white
-https://img.shields.io/badge/FAISS-Semantic%20Search-00A28F?style=flat-square
-https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-5D7B9A?style=flat-square
+
+![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-Semantic%20Search-00A28F?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-5D7B9A?style=flat-square)
 
 ### Programming & Applications
-https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white
-https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white
-https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white
-https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white
-https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white
-https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
 
 ### Cloud, Automation & Development
-https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white
-https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white
-https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white
-https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white
-https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white
+
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=whiteuredevops&logoColor=white
 https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white
 
 ## Current Focus
@@ -75,7 +76,6 @@ https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&log
 - Document assumptions, limitations, and dependencies
 
 ## Connect With Me
-
 https://img.shields.io/badge/LinkedIn-Mohd%20Faizan%20Khan-0A66C2?style=flat-square&logo=linkedin&logoColor=white](https://www.linkedin.com/in/mfk1277/)
 
 I am interested in connecting with professionals working across **AI engineering, financial services, regulatory technology, risk analytics, and responsible automation**.
