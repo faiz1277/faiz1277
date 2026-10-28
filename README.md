@@ -86,9 +86,7 @@ My work focuses on translating regulatory and business requirements into scalabl
 - 🔗 Preserve traceability, grounding, and source evidence
 - 👤 Keep human review in high-impact decisions
 - ♻️ Design reusable, modular, and maintainable workflows
-- ✅ Validate outputs with clear, evidence-based review
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohd%20Faizan%20Khan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mfk1277/)
+- ✅ Validateields.io/badge/LinkedIn-Mohd%20Faizan%20Khan-0A66C2?style=flat-square&logo=linkedin&logoColor=white](https://www.linkedin.com/in/mfk1277/)
 
 I am interested in connecting with professionals working across **AI engineering, financial services, regulatory technology, risk analytics, and responsible automation**.
 
