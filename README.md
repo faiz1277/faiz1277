@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00A28F&height=200&section=header&text=Mohd%20Faizan%20Khan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Risk%20%26%20Compliance%20Technologist%20%7C%20AI%20%26%20Automation%20%7C%20Python&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00A28F&height=200&section=header&text=Mohd%20Faizan%20Khan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&fontFamily=Verdana&fontWeight=700)
 
 I work at the intersection of **risk, compliance, financial services, and technology**, building practical AI and automation solutions that transform complex, high-volume processes into structured, traceable, and reviewer-ready workflows.
 
@@ -86,7 +86,9 @@ My work focuses on translating regulatory and business requirements into scalabl
 - 🔗 Preserve traceability, grounding, and source evidence
 - 👤 Keep human review in high-impact decisions
 - ♻️ Design reusable, modular, and maintainable workflows
-- ✅ Validateields.io/badge/LinkedIn-Mohd%20Faizan%20Khan-0A66C2?style=flat-square&logo=linkedin&logoColor=white](https://www.linkedin.com/in/mfk1277/)
+- ✅ Validate ideas with evidence and measurable outcomes
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohd%20Faizan%20Khan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mfk1277/)
 
 I am interested in connecting with professionals working across **AI engineering, financial services, regulatory technology, risk analytics, and responsible automation**.
 
