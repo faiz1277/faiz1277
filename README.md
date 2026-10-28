@@ -92,6 +92,6 @@ My work focuses on translating regulatory and business requirements into scalabl
 
 I am interested in connecting with professionals working across **AI engineering, financial services, regulatory technology, risk analytics, and responsible automation**.
 
-https://capsule-render.vercel.app/api?type=waving&color=0:00A28F,100:0078D4&height=100&section=footer
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00A28F,100:0078D4&height=100&section=footer)
 
 </div>
